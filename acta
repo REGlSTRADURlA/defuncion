@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    
+   
+<meta charset="UTF-8">
+    
+    <
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Certificado de Defunción con detalles esenciales.">
+    <meta name="author" content="Ministerio de Salud y Protección Social">
+    <title>Certificado de Defunción</title>
+    
+    <
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="container-fluid bg-dark text-white py-3">
+        <div class="d-flex justify-content-between align-items-center">
+            <img src="Logominsalud.png" alt="Logo Ministerio de Salud" height="50">
+            
+  
+<img src="Logo_App2.png" alt="Logo Institucional" height="50">
+        
+        </div
+</div>
+    
+    </header
+</header>
+
+    <main class="container mt-4">
+        
+      
+
+   
+<section class="p-4 bg-light rounded border">
+            <h2 class="text-danger">Certificado de defunción: 24099220048960</h2>
+            
+            <
+<p><strong>Tipo de defunción:</strong> No fetal</p>
+            
+            <
+<p><strong>Fallecido:</strong> CC1022936358 - YERLI MICHEL PAYARES ARAQUE</p>
+            <p><strong>Lugar de defunción:</strong> GUAJIRA - MAICAO</p>
+            <p><strong>Institución prestadora de servicio de salud:</strong> HOSPITAL - MAICAO - EMPRESA SOCIAL DEL ESTADO UNIDAD DE ATENCIÓN EN SALUD - MAICAO</p>
+            <p><strong>Estado de registro:</strong> Activo</p>
+            
+            <
+<p><strong>Fecha de registro:</strong> 2024-12-27</p>
+            <p><strong>Fecha de impresión:</strong> 2024-12-28 09:14</p>
+            
+   
+<p><strong>Fecha de validación:</strong> 2024-12-27 19:00</p>
+        
+        </
+
+       
+</section>
+    
+    </main
+</main>
+
+    <footer class="container-fluid bg-dark text-white text-center py-3 mt-4">
+        <p>
+            
+            <
+<strong>Atención al usuario:</strong> Teléfono en Bogotá D.C. +57(1)330 5043, resto del país 018000 960020<br>
+            
+ 
+<a href="mailto:soportend@minsalud.gov.co" class="text-info">soportend@minsalud.gov.co</a>
+        </p>
+        <p>© 2024 Ministerio de Salud y Protección Social</p>
+    
+   
+</footer>
+
+    
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</
+</html>
